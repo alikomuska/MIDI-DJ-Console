@@ -41,12 +41,3 @@ Because the console is MIDI-only, it can be mapped to DJ software to suit the us
 |-----------|----------|-------------|------|
 | **Raspberry Pi Pico RP2040** | 1 | Microcontroller board that handles MIDI communication and input processing | |
 | **Multiplexer CD74HC4067** | 1 | 16-channel analog multiplexer for expanding the number of analog inputs on the Pico | [AliExpress](https://www.aliexpress.com/item/1005009887874792.html?spm=a2g0o.order_list.order_list_main.72.75bc1802wQvTmo) |
-
-### Other Materials
-
-- Jumper wires and soldering equipment
-- 3D-printed or custom enclosure
-- USB cable for power and MIDI connection
-- (Optional) LED indicators and resistors
-
-*Note: The RV09 potentiometers are used for compact rotary controls, while the 60mm sliders provide tactile fader control. The CD74HC4067 multiplexer is essential for reading multiple analog inputs efficiently with the Raspberry Pi Pico.*
