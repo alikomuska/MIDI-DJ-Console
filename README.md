@@ -33,7 +33,8 @@ Because the console is MIDI-only, it can be mapped to DJ software to suit the us
 | **RV09 Potentiometers** | 9 | Rotary potentiometers for EQ, gain, filter, and other parameters | [AliExpress](https://www.aliexpress.com/item/1005006950939111.html?spm=a2g0o.order_list.order_list_main.5.75bc1802wQvTmo) |
 | **60mm Sliding Potentiometers** | 2 | Linear faders for volume or channel control | [AliExpress](https://www.aliexpress.com/item/1005009375810589.html?spm=a2g0o.order_list.order_list_main.97.75bc1802wQvTmo) |
 | **Rotary Encoder Switch EC11** | 1 | Rotary encoder with push-button for navigation or parameter selection | [AliExpress](https://www.aliexpress.com/item/1005006076665259.html?spm=a2g0o.order_list.order_list_main.62.75bc1802wQvTmo) |
-| **Rotary Encoders** | 2 | Standard rotary encoders (without push-button) for additional controls | |
+| **Rotary Encoders** | 2 | Standard rotary encoders for loop | |
+| **Push Buttons (Tactile Switches)** | 8 | Momentary push buttons for cue, play, shift, and other performance functions | |
 
 ### Microcontroller & Signal Processing
 
